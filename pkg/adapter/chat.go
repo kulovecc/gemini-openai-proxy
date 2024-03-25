@@ -17,7 +17,7 @@ import (
 )
 
 const (
-	GeminiPro       = "gemini-1.5-pro-latest"
+	GeminiPro       = "gemini-pro"
 	GeminiProVision = "gemini-pro-vision"
 
 	genaiRoleUser  = "user"
